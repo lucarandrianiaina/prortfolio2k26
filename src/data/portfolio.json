@@ -1,0 +1,130 @@
+{
+  "global": {
+    "name": "Jean Luca",
+    "fullname": "RANDRIANIAINA Onjaniriana Jean Luca",
+    "resumeText": "Développeur Web Créatif basé à Madagascar. Je conçois et développe des applications modernes, performantes et visuellement marquantes.",
+    "social": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  "home": {
+    "titleLine1": "DÉVELOPPEUR",
+    "titleLine2": "WEB CRÉATIF",
+    "subtitle": "Je transforme vos idées en expériences numériques interactives modernes. Découvrez mon univers.",
+    "ctaProjects": "Voir mon travail",
+    "ctaContact": "Me contacter",
+    "profileImage": "/profile.png"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "paragraphs": [
+      "Salut ! Je suis Onjaniriana Jean Luca RANDRIANIAINA, un développeur web passionné basé à Madagascar.",
+      "Fort d'une expérience variée dans le développement web, je m'efforce de concevoir des applications web fluides, performantes et visuellement marquantes. Je suis constamment à l'affût des dernières technologies.",
+      "Mon objectif est de traduire des problèmes complexes en interfaces simples et intuitives, avec un code maintenable et robuste sous le capot."
+    ],
+    "stats": [
+      {
+        "value": "3+",
+        "label": "Années d'expérience"
+      },
+      {
+        "value": "20+",
+        "label": "Projets réalisés"
+      },
+      {
+        "value": "100%",
+        "label": "Passionné"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Mes Compétences",
+    "categories": [
+      {
+        "name": "Frontend",
+        "items": [
+          {
+            "name": "HTML5 / CSS3 / SASS",
+            "percent": 95
+          },
+          {
+            "name": "JavaScript (ES6+)",
+            "percent": 90
+          },
+          {
+            "name": "Vue.js",
+            "percent": 85
+          },
+          {
+            "name": "Tailwind CSS / Bootstrap",
+            "percent": 80
+          }
+        ]
+      },
+      {
+        "name": "Backend & Outils",
+        "items": [
+          {
+            "name": "Node.js / Express",
+            "percent": 75
+          },
+          {
+            "name": "Git / GitHub",
+            "percent": 90
+          },
+          {
+            "name": "Figma / UI Design",
+            "percent": 70
+          },
+          {
+            "name": "Méthodologies Agiles",
+            "percent": 85
+          }
+        ]
+      },
+      {
+        "name": "Nouvelle catégorie",
+        "items": []
+      }
+    ]
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "items": [
+      {
+        "id": 2,
+        "title": "Dashboard Analytique",
+        "description": "Application de suivi de statistiques en temps réel. Visualisation de données complexes avec des graphiques interactifs.",
+        "tags": [
+          "Vue 3",
+          "ChartJS",
+          "Firebase"
+        ],
+        "imageUrl": "https://placehold.co/600x400/1e222a/FF66FF?text=Dashboard",
+        "projectUrl": "#"
+      },
+      {
+        "id": 3,
+        "title": "Landing Page Cyber",
+        "description": "Une page de présentation immersive avec des animations avancées GSAP pour une agence de design, similaire à ce portfolio.",
+        "tags": [
+          "HTML/CSS",
+          "GSAP",
+          "JavaScript"
+        ],
+        "imageUrl": "https://placehold.co/600x400/1e222a/A0A5B5?text=Landing+Page",
+        "projectUrl": "#"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "subtitle": "Travaillons Ensemble",
+    "description": "Un projet en tête ? N'hésitez pas à me contacter via ce formulaire ou directement sur mes réseaux sociaux.",
+    "email": "lucarandrianiaina95@gmail.com",
+    "location": "Madagascar, MG",
+    "phone": "+261 38 95 712 15"
+  }
+}
