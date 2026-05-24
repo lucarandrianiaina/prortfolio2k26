@@ -42,6 +42,7 @@ export default defineConfig({
     vue(),
     saveJsonPlugin
   ],
+  base: '/prortfolio2k26/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
